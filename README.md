@@ -1,6 +1,4 @@
 # Phonebook-management-using-doubly-linked-list
-3rd Semester Computer Engineering Project
-# MKSSS'S CUMMINS COLLEGE OF ENGINEERING FOR WOMEN
 
 # Taught data structures
 1.Array<br />
@@ -12,7 +10,6 @@
 4.Queue<br />
 
 # Topic: THIS DEMONSTRATES THE PHONEBOOK MANAGEMENT SYSTEM WITH DOUBLY LINKED LIST SO THAT TRAVERSING CAN BE EASY.....
-# In eclipse
 
 #Phonebook management have three main operations:<br />
 #1.Searching<br />
