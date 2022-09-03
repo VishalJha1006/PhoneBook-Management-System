@@ -1,6 +1,6 @@
 # Phonebook-management-using-doubly-linked-list
 
-# Topic: THIS DEMONSTRATES THE PHONEBOOK MANAGEMENT SYSTEM WITH DOUBLY LINKED LIST SO THAT TRAVERSING CAN BE EASY.....
+# Topic: THIS DEMONSTRATES THE PHONEBOOK MANAGEMENT SYSTEM WITH DOUBLY LINKED LIST
 
 #Phonebook management have three main operations:<br />
 #1.Searching<br />
