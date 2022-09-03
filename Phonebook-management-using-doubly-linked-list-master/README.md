@@ -1,18 +1,6 @@
 # Phonebook-management-using-doubly-linked-list
-3rd Semester Computer Engineering Project
-# MKSSS'S CUMMINS COLLEGE OF ENGINEERING FOR WOMEN
-
-# Taught data structures
-1.Array<br />
-2.LinkedList<br />
- a.Singly Linked List<br />
- b.Doubly Linked List<br />
- c.Circular Linked List<br />
-3.Stack<br />
-4.Queue<br />
 
 # Topic: THIS DEMONSTRATES THE PHONEBOOK MANAGEMENT SYSTEM WITH DOUBLY LINKED LIST SO THAT TRAVERSING CAN BE EASY.....
-# In eclipse
 
 #Phonebook management have three main operations:<br />
 #1.Searching<br />
@@ -44,21 +32,21 @@ Doubly Linked List because while searching first element but the current status 
 **************                                PHONE BOOK                          ********************
 
 WHAT IS YOUR NAME?
-Priti jha
+Vishal jha
 
 
-!!!!!!!!!!!!!!!!!!!!!!!   WELCOME Priti jha   !!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!   WELCOME Vishal jha   !!!!!!!!!!!!!!!!!!!!!
 
 
-LET'S CREATE OUR PHONEBOOK Priti jha  
+LET'S CREATE OUR PHONEBOOK Vishal jha  
 
 ENTER NAME      :vijay
 ENTER NUMBER    :1234567890
-ENTER G-MAIL    :priti@gmail.com
+ENTER G-MAIL    :vijay@gmail.com
 DO YOU WANT TO CONTINUE?????????y
 ENTER NAME      :rahul
 ENTER NUMBER    :1234567890
-ENTER G-MAIL    :rahh ul@gmail.com
+ENTER G-MAIL    :rahul@gmail.com
 DO YOU WANT TO CONTINUE?????????n
 
 
@@ -76,7 +64,7 @@ DO YOU WANT TO CONTINUE?????????n
 
 NAME  ::	rahul
 NUMBER::	+91-1234567890
-G-MAIL::	priti@gmail.com
+G-MAIL::	rahul@gmail.com
 
 NAME  ::	vijay
 NUMBER::	+91-1234567890
@@ -159,7 +147,7 @@ WHAT DO YOU WANT TO UPDATE?
 2.PHONE NUMBER
 3.G-MAIL
 1
-ENTER NEW-NAME=Priti
+ENTER NEW-NAME=Vishal
 DO YOU WANT TO CONTINUE UPDATING?n
 
 
@@ -178,9 +166,9 @@ DO YOU WANT TO CONTINUE OPERATIONS?????????y
 1
 
 
-NAME  ::	Priti
+NAME  ::	Vishal
 NUMBER::	+91-1234567890
-G-MAIL::	priti@gmail.com
+G-MAIL::	vishal@gmail.com
 
 NAME  ::	akshay
 NUMBER::	+91-1234567890
@@ -209,7 +197,7 @@ DO YOU WANT TO CONTINUE OPERATIONS?????????y
 4
 
 ENTER THE NAME YOU WANT TO DELETE FROM PHONEBOOK
-Priti
+Vishal
 YOUR CONTACT IS SUCCESSFULLY DELETED
 
 
