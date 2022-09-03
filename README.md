@@ -1,6 +1,6 @@
-# Phonebook-management-using-doubly-linked-list
+# Phonebook-Management-System-using-Doubly-Linked-List
 
-# Taught data structures
+# Data Structures used
 1.Array<br />
 2.LinkedList<br />
  a.Singly Linked List<br />
@@ -9,9 +9,9 @@
 3.Stack<br />
 4.Queue<br />
 
-# Topic: THIS DEMONSTRATES THE PHONEBOOK MANAGEMENT SYSTEM WITH DOUBLY LINKED LIST SO THAT TRAVERSING CAN BE EASY.....
+# Topic: THIS DEMONSTRATES THE PHONEBOOK MANAGEMENT SYSTEM WITH DOUBLY LINKED LIST
 
-#Phonebook management have three main operations:<br />
+#Phonebook Management System have three main operations:<br />
 #1.Searching<br />
 #2.Sorting<br />
 #3.Deleting<br />
@@ -25,7 +25,7 @@ Doubly Linked List: The pointer should traverse backward in order to save time b
 2.Deletion O(n)<br />
 3.Sorting O(n*Log n)<br />
 
-# OPERATIONS IMPLEMENTED.............
+# OPERATIONS IMPLEMENTED
 1)DELETE SAME NUMBER<br />
 2)DELETE SAME NAME<br />
 3)SEARCH<br />
